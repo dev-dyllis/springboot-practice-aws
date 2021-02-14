@@ -9,7 +9,7 @@ spring:
       enabled: true
   session:
     store-type: jdbc
-´
+
   security:
     oauth2:
       client:
